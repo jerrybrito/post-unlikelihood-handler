@@ -1,0 +1,2 @@
+# Requires: potential-perhaps
+# (Not available on PyPI)
